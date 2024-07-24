@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1721784010 source:c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\numeros grandes\main.cpp
+	<iostream>
+	"numerosgrandes.h"
+	<vector>
+
+1721769942 c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\numeros grandes\numerosgrandes.h
+	<vector>
+	<iostream>
+
+1721785665 source:c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\numeros grandes\numerosgrandes.cpp
+	"numerosgrandes.h"
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+
